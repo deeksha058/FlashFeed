@@ -6,7 +6,7 @@ import lombok.Data;
 public class Resources {
     private String id;
     private String name;
-    private String description;
+    private String description ;
     private String url;
     private String category;
     private String language;
