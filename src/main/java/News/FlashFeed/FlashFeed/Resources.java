@@ -11,4 +11,5 @@ public class Resources {
     private String category;
     private String language;
     private String country;
+
 }
